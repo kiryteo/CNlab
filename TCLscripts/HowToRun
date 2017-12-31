@@ -1,0 +1,6 @@
+Install ns2 :
+Follow the link below 
+http://technobytz.com/how-to-install-network-simulator-ns2-nam-in-ubuntu-14-04.html
+
+After installing ns2 :
+ns filename.tcl
